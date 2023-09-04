@@ -15,6 +15,7 @@
 		084AD2E42A91510B0091DA32 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 084AD2E22A91510B0091DA32 /* LaunchScreen.storyboard */; };
 		08EBCD0C2A92056800A0C343 /* Player.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08EBCD0B2A92056800A0C343 /* Player.swift */; };
 		08EBCD0E2A9206C500A0C343 /* SpriteKitHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08EBCD0D2A9206C500A0C343 /* SpriteKitHelper.swift */; };
+		08EE27432AA5E0D300AC177A /* Collectible.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08EE27422AA5E0D300AC177A /* Collectible.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		084AD2E32A91510B0091DA32 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		08EBCD0B2A92056800A0C343 /* Player.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Player.swift; sourceTree = "<group>"; };
 		08EBCD0D2A9206C500A0C343 /* SpriteKitHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpriteKitHelper.swift; sourceTree = "<group>"; };
+		08EE27422AA5E0D300AC177A /* Collectible.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Collectible.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +69,7 @@
 				084AD2E22A91510B0091DA32 /* LaunchScreen.storyboard */,
 				08EBCD0B2A92056800A0C343 /* Player.swift */,
 				08EBCD0D2A9206C500A0C343 /* SpriteKitHelper.swift */,
+				08EE27422AA5E0D300AC177A /* Collectible.swift */,
 			);
 			path = gloopdrop;
 			sourceTree = "<group>";
@@ -144,6 +147,7 @@
 			files = (
 				08EBCD0C2A92056800A0C343 /* Player.swift in Sources */,
 				084AD2DA2A91510A0091DA32 /* GameScene.swift in Sources */,
+				08EE27432AA5E0D300AC177A /* Collectible.swift in Sources */,
 				084AD2DC2A91510A0091DA32 /* GameViewController.swift in Sources */,
 				08EBCD0E2A9206C500A0C343 /* SpriteKitHelper.swift in Sources */,
 				084AD2D42A91510A0091DA32 /* AppDelegate.swift in Sources */,

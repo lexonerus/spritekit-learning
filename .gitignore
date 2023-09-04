@@ -27,3 +27,4 @@ DerivedData/
 .DS_Store
 *.xcuserstate
 Podfile.lock
+.DS_Store

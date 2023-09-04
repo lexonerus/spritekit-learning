@@ -36,6 +36,7 @@ extension SKSpriteNode {
         case background = 0.0
         case foreground = 1.0
         case player = 2.0
+        case collectible = 3.0
     }
     
     // Used to load texture arrays for animations
